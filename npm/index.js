@@ -40,7 +40,7 @@ console.log(uuid());
 //to update minor and patch version
 
 //remove package
-//npm update
+//npm rm nodemon -D
 
 
 
